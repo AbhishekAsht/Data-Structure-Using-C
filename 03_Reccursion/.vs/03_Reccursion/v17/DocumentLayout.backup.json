@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\My Project\\DataStructure\\03_Reccursion\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E30B810-36A8-4876-8AEF-EAFD43B26932}|03_Reccursion.vcxproj|C:\\My Project\\DataStructure\\03_Reccursion\\03_Reccursion.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7E30B810-36A8-4876-8AEF-EAFD43B26932}|03_Reccursion.vcxproj|solutionrelative:03_Reccursion.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "03_Reccursion.cpp",
+              "DocumentMoniker": "C:\\My Project\\DataStructure\\03_Reccursion\\03_Reccursion.cpp",
+              "RelativeDocumentMoniker": "03_Reccursion.cpp",
+              "ToolTip": "C:\\My Project\\DataStructure\\03_Reccursion\\03_Reccursion.cpp",
+              "RelativeToolTip": "03_Reccursion.cpp",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-02T05:30:42.612Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
